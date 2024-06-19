@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from India.</h3>
 
 - 🌱 I’m currently learning **Flutter**
-
+- 👯 I’m looking to collaborate on innovative web applications and open-source projects
+- 💬 Ask me about Web Development, Data Structures and Algorithms, and App development
 - 📫 How to reach me **aayushri1302@gmail.com**
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
